@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\bin\Debug\Soundsharp.ConsoleApp.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\bin\Debug\Soundsharp.ConsoleApp.exe
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\bin\Debug\Soundsharp.ConsoleApp.pdb
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\obj\Debug\Soundsharp.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\obj\Debug\Soundsharp.ConsoleApp.exe
+c:\users\mike\documents\visual studio 2015\Projects\Soundsharp.ConsoleApp\Soundsharp.ConsoleApp\obj\Debug\Soundsharp.ConsoleApp.pdb
